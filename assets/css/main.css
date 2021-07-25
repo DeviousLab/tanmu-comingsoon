@@ -687,6 +687,9 @@ mark, .mark {
     .hero__title {
         font-size: 48px;
     }
+    #footer {
+        display: none;
+    }
 }
 
 .hero__wrapper {
